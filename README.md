@@ -125,7 +125,3 @@ A firewall acts as a barrier, filtering incoming and outgoing network packets ba
 ***
 
 **This report and the attached screenshots fulfill the requirements for Task 4: verifying basic Windows Firewall skills and documenting proof of execution.**
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/87077792/a45318f4-7c97-4c7f-aa0e-85c6a218b8d3/Screenshot-2025-08-11-161736.jpg
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/87077792/0a4c369a-ee7d-4344-98d7-4cd0430e881a/Screenshot-2025-08-11-162555.jpg
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/87077792/355be6b5-f45d-4d19-8ff2-735e0b81109f/task-4-3.pdf
