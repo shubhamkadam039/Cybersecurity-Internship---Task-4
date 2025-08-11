@@ -117,11 +117,4 @@ A firewall acts as a barrier, filtering incoming and outgoing network packets ba
 
 ***
 
-## Screenshots
-
-- `Screenshot-2025-08-11-161736.jpg`: Firewall rule list with "Block Telnet Port 23" enabled
-- `Screenshot-2025-08-11-162555.jpg`: PowerShell test result showing TCP port 23 blocked
-
-***
-
 **This report and the attached screenshots fulfill the requirements for Task 4: verifying basic Windows Firewall skills and documenting proof of execution.**
