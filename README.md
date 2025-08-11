@@ -41,7 +41,7 @@ Configure and test basic firewall rules to allow or block traffic using Windows 
 - Named rule: `Block Telnet Port 23`
 - Verified rule added in the rule list
 
-_See screenshot: "Block Telnet Port 23" rule created and enabled (`Screenshot-2025-08-11-161736.jpg`)_[1]
+_See screenshot: Block Telnet Port 23 rule created and enabled (Screenshot 161736)
 
 ### 3. Test the Rule (Telnet Blocked)
 
@@ -50,7 +50,7 @@ _See screenshot: "Block Telnet Port 23" rule created and enabled (`Screenshot-20
 - Error: `'telnet' is not recognized as...`  
   (Telnet client not installed by default on Windows)
 
-_See screenshot: Telnet client test and error shown_
+_See screenshot: Telnet client test and error shown (Screenshot 161736)
 
 - Used **PowerShell** alternative command:
   ```powershell
@@ -63,7 +63,7 @@ _See screenshot: Telnet client test and error shown_
   ```
 - Verified that the firewall rule successfully blocks port 23 for both IPv4 and IPv6[2]
 
-_See screenshot: PowerShell test result confirming block_
+_See screenshot: PowerShell test result confirming block (Screenshot 162555)
 
 ### 4. Remove Test Block Rule (If Needed)
 
