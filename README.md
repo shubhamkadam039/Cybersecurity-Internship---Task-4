@@ -116,5 +116,3 @@ A firewall acts as a barrier, filtering incoming and outgoing network packets ba
    Network Address Translation (NAT) allows multiple devices on a local network to share a single public IP, hiding internal IPs and adding a layer of security.
 
 ***
-
-**This report and the attached screenshots fulfill the requirements for Task 4: verifying basic Windows Firewall skills and documenting proof of execution.**
