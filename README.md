@@ -16,12 +16,12 @@ Configure and test basic firewall rules to allow or block traffic using Windows 
 
 ## Tasks Completed
 
-- ✅ Listed current firewall rules
-- ✅ Blocked inbound traffic on port 23 (Telnet)
-- ✅ Tested blocked port connection
-- ✅ Documented all commands/GUI steps and results
-- ✅ Answered key interview questions
-- ✅ Added screenshots as evidence
+- Listed current firewall rules
+- Blocked inbound traffic on port 23 (Telnet)
+- Tested blocked port connection
+- Documented all commands/GUI steps and results
+- Answered key interview questions
+- Added screenshots as evidence
 
 ***
 
